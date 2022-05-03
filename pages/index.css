@@ -1,0 +1,8 @@
+/* normalize style */
+@import url(../vendor/normalize.css);
+
+/* body style */
+@import url(../blocks/body/body.css);
+
+/* page style */
+@import url(../blocks/page/page.css);
