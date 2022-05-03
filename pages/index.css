@@ -6,3 +6,11 @@
 
 /* page style */
 @import url(../blocks/page/page.css);
+
+/* logo style*/
+@import url(../blocks/logo/logo.css);
+
+/* header style */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__languages/header__languages.css);
+@import url(../blocks/header/__language/header__language.css);
