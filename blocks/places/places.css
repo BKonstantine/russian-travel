@@ -2,7 +2,7 @@
   display: grid;
   gap: 80px;
   max-width: 984px;
-  padding: 92px 48px;
+  padding: 92px 48px 0;
   margin: auto;
 }
 
@@ -16,13 +16,13 @@
   .places {
     gap: 72px;
     max-width: 720px;
-    padding: 88px 24px 90px 24px;
+    padding: 88px 24px 0 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
-    padding: 64px 0px 66px 0px;
+    padding: 64px 0px 0 0px;
   }
 }
 
